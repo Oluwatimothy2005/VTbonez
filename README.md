@@ -1,2 +1,0 @@
-# VTbonez
-charity web page 
